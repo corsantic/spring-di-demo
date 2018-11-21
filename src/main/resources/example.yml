@@ -1,0 +1,44 @@
+# comment
+
+name: Furkan
+
+names: #Comment
+  - Furkan
+  - Ali
+  - Mert1
+
+pound_sign : "#"
+
+
+book:
+  author: Joe Nuck
+  publisher: Flying House
+
+truth: yes
+
+another_truth: True
+
+more_true: true
+
+false: no # No,false, FALSE
+
+
+string_val: "This is it's quote"
+
+colon_string: "my coureses: one two three"
+
+include_new_lines: |
+  asdfds asdas dsfs
+  adfdsf asdsd adsf
+  asdasa asdas asd
+
+ignore_new_lines: >
+  this is
+  shut it
+  stop it
+
+
+
+
+
+
