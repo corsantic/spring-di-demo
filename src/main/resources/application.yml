@@ -1,0 +1,13 @@
+enemo:
+  jms:
+    username: JMS User
+    password: passjms
+    url: jmsUrl
+
+---
+spring:
+  profiles: de
+enemo:
+  jms:
+    username: JMS User||||in|||GERMAN
+
